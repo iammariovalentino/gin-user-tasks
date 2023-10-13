@@ -1,5 +1,5 @@
 # gin-user-tasks
-Gin user tasks assignment test using Golang
+User tasks example using Gin & Oauth2
 
 
 ### How do I get set up?
